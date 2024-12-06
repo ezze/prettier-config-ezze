@@ -8,5 +8,8 @@
   },
   "keywords": ["prettier", "prettier-config"],
   "author": "Dmitriy Pushkov <ezze@ezze.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  }
 }
